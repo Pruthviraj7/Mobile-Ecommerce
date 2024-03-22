@@ -24,8 +24,4 @@ The Mobile Shopee E-Commerce Website is a comprehensive tutorial for building an
 - Basic knowledge of HTML, CSS, PHP, and MySQL
 - Web server environment (e.g., XAMPP, WAMP, or similar) for running PHP scripts and MySQL database
 
-## Resources:
-- [Link to the course/tutorial]
 
-## License:
-This project is licensed under the [License Name]. See the LICENSE file for details.
